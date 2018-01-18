@@ -20,6 +20,7 @@
 #define all(x) x.begin(),x.end()
 #define fill(a,v) memset(a,v,sizeof a)
 #define endl "\n"
+#define push_back
 
 using namespace std;
 
